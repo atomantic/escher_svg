@@ -1,0 +1,30 @@
+{
+  "name": "escher_svg",
+  "version": "1.0.0",
+  "description": "JavaScript utility that generates SVG images of random Escher-like tessellations",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "lint": "eslint src/",
+    "example": "node examples/generate.js"
+  },
+  "keywords": [
+    "escher",
+    "tessellation",
+    "svg",
+    "pattern",
+    "geometry",
+    "wallpaper-groups"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  },
+  "bin": {
+    "escher-svg": "./bin/cli.js"
+  }
+}
