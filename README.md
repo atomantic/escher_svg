@@ -1,6 +1,6 @@
 # escher_svg
 
-> This is just a quick, nieve test of claude code using the following prompts:
+> This is just a quick, naive test of claude code using the following prompts:
 > - create a README.md for this repo that describes escher_svg as a JavaSript utility that will make a SVG of a random Escher like tessellation
 > - Plan the project
 > - execute the plan
