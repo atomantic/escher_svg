@@ -1,5 +1,12 @@
 # escher_svg
 
+> This is just a quick, nieve test of claude code using the following prompts:
+> - create a README.md for this repo that describes escher_svg as a JavaSript utility that will make a SVG of a random Escher like tessellation
+> - Plan the project
+> - execute the plan
+> - initialize a git repo, set origin to git@github.com:atomantic/escher_svg.git and commit/push to main
+> - there is empty space between the shapes
+
 A JavaScript utility that generates SVG images of random Escher-like tessellations.
 
 ## Overview
