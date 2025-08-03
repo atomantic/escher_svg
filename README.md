@@ -6,6 +6,8 @@
 > - execute the plan
 > - initialize a git repo, set origin to git@github.com:atomantic/escher_svg.git and commit/push to main
 > - there is empty space between the shapes
+>
+> The result needs more correction and massaging to get to something like what an escher pattern would look like (flipped rows, animal shapes--might require a diffusion model, etc)  
 
 A JavaScript utility that generates SVG images of random Escher-like tessellations.
 
